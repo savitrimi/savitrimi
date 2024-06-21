@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href=" https://www.w3schools.com/html/"> <img src="img/British_00.jpg" height="300" width="350"></a>
+    <br><a href="https://www.facebook.com/"> <img src="img/ดาวน์โหลด.webp" height="300" width="350"></a>
+    <br><a href="https://github.com/"><img src="img/american-shorthair_0.jpg" height="300" width="350"></a>
+    <br><a href="https://www.youtube.com/"><img src="img/ดาวน์โหลด (2).webp" height="300" width="350"></a>
+    <br><a href="https://www.w3schools.com/html/html_attributes.asp    "><img src="img/ดาวน์โหลด (3).webp" height="300" width="350"></a>
+</body>
+</html>
